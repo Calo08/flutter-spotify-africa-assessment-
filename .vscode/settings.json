@@ -1,3 +1,17 @@
 {
-    "cSpell.enabled": false
+  
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_spotify_africa_assessment",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_spotify_africa_assessment (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
 }
